@@ -1,2 +1,3 @@
 # Biocomp
-Desafios de programação da disciplina de Biologia Computacional
+A list of programming challenges involving DNA sequences and data analysis methods
+
